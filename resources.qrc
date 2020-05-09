@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/figure/ico">
+        <file>resource/SCPS_logo.ico</file>
+    </qresource>
+    <qresource prefix="/figure/logo">
+        <file>resource/SCPS_logo.svg</file>
+    </qresource>
+</RCC>
