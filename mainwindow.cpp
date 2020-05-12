@@ -32,7 +32,7 @@ MainWindow::~MainWindow()
 void MainWindow::myGUISetup()
 {
 	//-------------------- set application icon --------------------
-	setWindowIcon(QIcon(":/figure/ico/resource/SCPS_logo.ico"));
+	setWindowIcon(QIcon(":/figure/ico/resource/classScheduler.ico"));
 	setWindowTitle("smart course planning system");
 	resize(550,550);
 
